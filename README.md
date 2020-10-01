@@ -60,3 +60,4 @@ If you have any other issues / questions, feel free to join our <a href="https:/
 ## Acknowledgments
 
 * <a href="https://fortnitepy.readthedocs.io/en/latest/intro.html" target="_blank">fortnitepy</a>
+[![Run on Repl.it](https://repl.it/badge/github/Skywalker4Realz/Xensis)](https://repl.it/github/Skywalker4Realz/Xensis)
